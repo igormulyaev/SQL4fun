@@ -1,0 +1,230 @@
+nMax = 62
++ a = 4; b = 13; sum = 17; mul = 52
+Count = 1
+nMax = 866
+  a = 4; b = 13; sum = 17; mul = 52
++ a = 4; b = 61; sum = 65; mul = 244
+Count = 2
+nMax = 1502
+  a = 4; b = 13; sum = 17; mul = 52
+  a = 4; b = 61; sum = 65; mul = 244
++ a = 32; b = 131; sum = 163; mul = 4192
+Count = 3
+nMax = 1966
+  a = 4; b = 13; sum = 17; mul = 52
+  a = 4; b = 61; sum = 65; mul = 244
++ a = 16; b = 73; sum = 89; mul = 1168
+  a = 32; b = 131; sum = 163; mul = 4192
+Count = 4
+nMax = 2518
+  a = 4; b = 13; sum = 17; mul = 52
+  a = 4; b = 61; sum = 65; mul = 244
+  a = 16; b = 73; sum = 89; mul = 1168
++ a = 16; b = 111; sum = 127; mul = 1776
+  a = 32; b = 131; sum = 163; mul = 4192
+Count = 5
+nMax = 3826
+  a = 4; b = 13; sum = 17; mul = 52
+  a = 4; b = 61; sum = 65; mul = 244
+  a = 16; b = 73; sum = 89; mul = 1168
+  a = 16; b = 111; sum = 127; mul = 1776
+  a = 32; b = 131; sum = 163; mul = 4192
++ a = 32; b = 311; sum = 343; mul = 9952
+Count = 6
+nMax = 4034
+  a = 4; b = 13; sum = 17; mul = 52
+  a = 4; b = 61; sum = 65; mul = 244
+  a = 16; b = 73; sum = 89; mul = 1168
+  a = 16; b = 111; sum = 127; mul = 1776
++ a = 64; b = 73; sum = 137; mul = 4672
+  a = 32; b = 131; sum = 163; mul = 4192
+  a = 32; b = 311; sum = 343; mul = 9952
+Count = 7
+nMax = 4622
+  a = 4; b = 13; sum = 17; mul = 52
+  a = 4; b = 61; sum = 65; mul = 244
+  a = 16; b = 73; sum = 89; mul = 1168
+  a = 16; b = 111; sum = 127; mul = 1776
+  a = 64; b = 73; sum = 137; mul = 4672
+  a = 32; b = 131; sum = 163; mul = 4192
++ a = 4; b = 229; sum = 233; mul = 916
+  a = 32; b = 311; sum = 343; mul = 9952
++ a = 64; b = 309; sum = 373; mul = 19776
+Count = 9
+nMax = 4714
+  a = 4; b = 13; sum = 17; mul = 52
+  a = 4; b = 61; sum = 65; mul = 244
+  a = 16; b = 73; sum = 89; mul = 1168
+  a = 16; b = 111; sum = 127; mul = 1776
+  a = 64; b = 73; sum = 137; mul = 4672
++ a = 67; b = 82; sum = 149; mul = 5494
+  a = 32; b = 131; sum = 163; mul = 4192
+  a = 4; b = 229; sum = 233; mul = 916
+  a = 32; b = 311; sum = 343; mul = 9952
+  a = 64; b = 309; sum = 373; mul = 19776
+Count = 10
+nMax = 5482
+  a = 4; b = 13; sum = 17; mul = 52
+  a = 4; b = 61; sum = 65; mul = 244
+  a = 16; b = 73; sum = 89; mul = 1168
+  a = 16; b = 111; sum = 127; mul = 1776
+  a = 64; b = 73; sum = 137; mul = 4672
+-
+  a = 32; b = 131; sum = 163; mul = 4192
+  a = 4; b = 229; sum = 233; mul = 916
+  a = 32; b = 311; sum = 343; mul = 9952
+  a = 64; b = 309; sum = 373; mul = 19776
+Count = 9
+nMax = 7778
+  a = 4; b = 13; sum = 17; mul = 52
+  a = 4; b = 61; sum = 65; mul = 244
+  a = 16; b = 73; sum = 89; mul = 1168
+  a = 16; b = 111; sum = 127; mul = 1776
+  a = 64; b = 73; sum = 137; mul = 4672
+  a = 32; b = 131; sum = 163; mul = 4192
+  a = 4; b = 229; sum = 233; mul = 916
++ a = 8; b = 239; sum = 247; mul = 1912
+  a = 32; b = 311; sum = 343; mul = 9952
+  a = 64; b = 309; sum = 373; mul = 19776
+Count = 10
+nMax = 7894
+  a = 4; b = 13; sum = 17; mul = 52
+  a = 4; b = 61; sum = 65; mul = 244
+  a = 16; b = 73; sum = 89; mul = 1168
+  a = 16; b = 111; sum = 127; mul = 1776
+  a = 64; b = 73; sum = 137; mul = 4672
+  a = 32; b = 131; sum = 163; mul = 4192
++ a = 4; b = 181; sum = 185; mul = 724
+  a = 4; b = 229; sum = 233; mul = 916
+  a = 8; b = 239; sum = 247; mul = 1912
+  a = 32; b = 311; sum = 343; mul = 9952
+  a = 64; b = 309; sum = 373; mul = 19776
+Count = 11
+nMax = 7934
+  a = 4; b = 13; sum = 17; mul = 52
+  a = 4; b = 61; sum = 65; mul = 244
+  a = 16; b = 73; sum = 89; mul = 1168
+  a = 16; b = 111; sum = 127; mul = 1776
+  a = 64; b = 73; sum = 137; mul = 4672
+  a = 32; b = 131; sum = 163; mul = 4192
++ a = 16; b = 163; sum = 179; mul = 2608
+  a = 4; b = 181; sum = 185; mul = 724
+  a = 4; b = 229; sum = 233; mul = 916
+  a = 8; b = 239; sum = 247; mul = 1912
+  a = 32; b = 311; sum = 343; mul = 9952
+  a = 64; b = 309; sum = 373; mul = 19776
+Count = 12
+nMax = 9098
+  a = 4; b = 13; sum = 17; mul = 52
+  a = 4; b = 61; sum = 65; mul = 244
+  a = 16; b = 73; sum = 89; mul = 1168
+  a = 16; b = 111; sum = 127; mul = 1776
+  a = 64; b = 73; sum = 137; mul = 4672
+  a = 32; b = 131; sum = 163; mul = 4192
+  a = 16; b = 163; sum = 179; mul = 2608
+  a = 4; b = 181; sum = 185; mul = 724
++ a = 64; b = 127; sum = 191; mul = 8128
+  a = 4; b = 229; sum = 233; mul = 916
+  a = 8; b = 239; sum = 247; mul = 1912
+  a = 32; b = 311; sum = 343; mul = 9952
+  a = 64; b = 309; sum = 373; mul = 19776
+Count = 13
+nMax = 10966
+  a = 4; b = 13; sum = 17; mul = 52
+  a = 4; b = 61; sum = 65; mul = 244
+  a = 16; b = 73; sum = 89; mul = 1168
+  a = 16; b = 111; sum = 127; mul = 1776
+  a = 64; b = 73; sum = 137; mul = 4672
+  a = 32; b = 131; sum = 163; mul = 4192
+  a = 16; b = 163; sum = 179; mul = 2608
+  a = 4; b = 181; sum = 185; mul = 724
+  a = 64; b = 127; sum = 191; mul = 8128
+  a = 4; b = 229; sum = 233; mul = 916
+  a = 8; b = 239; sum = 247; mul = 1912
++ a = 139; b = 192; sum = 331; mul = 26688
+  a = 32; b = 311; sum = 343; mul = 9952
+  a = 64; b = 309; sum = 373; mul = 19776
+Count = 14
+nMax = 12346
+  a = 4; b = 13; sum = 17; mul = 52
+  a = 4; b = 61; sum = 65; mul = 244
+  a = 16; b = 73; sum = 89; mul = 1168
+  a = 16; b = 111; sum = 127; mul = 1776
+  a = 64; b = 73; sum = 137; mul = 4672
+  a = 32; b = 131; sum = 163; mul = 4192
+  a = 16; b = 163; sum = 179; mul = 2608
+  a = 4; b = 181; sum = 185; mul = 724
+  a = 64; b = 127; sum = 191; mul = 8128
+  a = 4; b = 229; sum = 233; mul = 916
+  a = 8; b = 239; sum = 247; mul = 1912
+  a = 139; b = 192; sum = 331; mul = 26688
++ a = 149; b = 188; sum = 337; mul = 28012
+  a = 32; b = 311; sum = 343; mul = 9952
+  a = 64; b = 309; sum = 373; mul = 19776
+Count = 15
+nMax = 13162
+  a = 4; b = 13; sum = 17; mul = 52
+  a = 4; b = 61; sum = 65; mul = 244
+  a = 16; b = 73; sum = 89; mul = 1168
+  a = 16; b = 111; sum = 127; mul = 1776
+  a = 64; b = 73; sum = 137; mul = 4672
+  a = 32; b = 131; sum = 163; mul = 4192
+  a = 16; b = 163; sum = 179; mul = 2608
+  a = 4; b = 181; sum = 185; mul = 724
+  a = 64; b = 127; sum = 191; mul = 8128
+  a = 4; b = 229; sum = 233; mul = 916
+  a = 8; b = 239; sum = 247; mul = 1912
+  a = 139; b = 192; sum = 331; mul = 26688
+  a = 149; b = 188; sum = 337; mul = 28012
+  a = 32; b = 311; sum = 343; mul = 9952
+-
+Count = 14
+nMax = 14002
+  a = 4; b = 13; sum = 17; mul = 52
+  a = 4; b = 61; sum = 65; mul = 244
+  a = 16; b = 73; sum = 89; mul = 1168
+  a = 16; b = 111; sum = 127; mul = 1776
+  a = 64; b = 73; sum = 137; mul = 4672
+  a = 32; b = 131; sum = 163; mul = 4192
+  a = 16; b = 163; sum = 179; mul = 2608
+  a = 4; b = 181; sum = 185; mul = 724
+  a = 64; b = 127; sum = 191; mul = 8128
+  a = 4; b = 229; sum = 233; mul = 916
+  a = 8; b = 239; sum = 247; mul = 1912
+  a = 139; b = 192; sum = 331; mul = 26688
+-
+  a = 32; b = 311; sum = 343; mul = 9952
+Count = 13
+nMax = 16178
+  a = 4; b = 13; sum = 17; mul = 52
+  a = 4; b = 61; sum = 65; mul = 244
+  a = 16; b = 73; sum = 89; mul = 1168
+  a = 16; b = 111; sum = 127; mul = 1776
+  a = 64; b = 73; sum = 137; mul = 4672
+  a = 32; b = 131; sum = 163; mul = 4192
+  a = 16; b = 163; sum = 179; mul = 2608
+  a = 4; b = 181; sum = 185; mul = 724
+  a = 64; b = 127; sum = 191; mul = 8128
+  a = 4; b = 229; sum = 233; mul = 916
+  a = 8; b = 239; sum = 247; mul = 1912
+  a = 139; b = 192; sum = 331; mul = 26688
+  a = 32; b = 311; sum = 343; mul = 9952
++ a = 32; b = 821; sum = 853; mul = 26272
+Count = 14
+nMax = 16466
+  a = 4; b = 13; sum = 17; mul = 52
+  a = 4; b = 61; sum = 65; mul = 244
+  a = 16; b = 73; sum = 89; mul = 1168
+  a = 16; b = 111; sum = 127; mul = 1776
+  a = 64; b = 73; sum = 137; mul = 4672
+  a = 32; b = 131; sum = 163; mul = 4192
+  a = 16; b = 163; sum = 179; mul = 2608
+  a = 4; b = 181; sum = 185; mul = 724
+  a = 64; b = 127; sum = 191; mul = 8128
+  a = 4; b = 229; sum = 233; mul = 916
+  a = 8; b = 239; sum = 247; mul = 1912
+  a = 139; b = 192; sum = 331; mul = 26688
+  a = 32; b = 311; sum = 343; mul = 9952
++ a = 32; b = 641; sum = 673; mul = 20512
+  a = 32; b = 821; sum = 853; mul = 26272
+Count = 15
