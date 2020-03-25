@@ -1,10 +1,10 @@
 /*
-МАМА + ПАПА = МАМАА
+РњРђРњРђ + РџРђРџРђ = РњРђРњРђРђ
 */
 
-with dg as -- цифры
+with dg as -- С†РёС„СЂС‹
 (select level - 1 x from dual connect by level <= 3),
-perms as -- перестановки
+perms as -- РїРµСЂРµСЃС‚Р°РЅРѕРІРєРё
 (select M_.x M, A_.x A, P_.x P
     from dg M_
     join dg A_
