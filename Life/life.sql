@@ -5,7 +5,6 @@ parms as (select last_gen, width, height, width * height total_cells
 ),
 -- Исходное поле
 src_field as (
-  /* select lpad(rpad('111', total_cells / 2 - width / 2, '0'), total_cells, '0') field, width, height, total_cells    from parms*/
   select rpad(lpad(rpad('0010', width, '0') || rpad('0001', width, '0') ||
                     rpad('0111', width, '0'),
                     width * 4,
